@@ -85,24 +85,7 @@ candidates:
 
 
 | ПІБ | Дата та місце народження | Висування | Відомості | Дата реєстрації |
-|--- |--- |--- |--- |--- |
-{% for candidate in page.candidates %}
-| {{ candidate.name }} | {{ candidate.birth }} | {{ candidate.party }} | {{ candidate.about }} | {{ candidate.date }} |
-{% endfor %}
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
+|--- |--- |--- |--- |--- | {% for candidate in page.candidates %}
+| {{ candidate.name }} | {{ candidate.birth }} | {{ candidate.party }} | {{ candidate.about }} | {{ candidate.date }} | {% endfor %}
 
 [За інформацією з офіційного сайту ЦВК](https://www.cvk.gov.ua/pls/vm2020/pvm160pt001f01=695pid102=64341rej=0.html)
