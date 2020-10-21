@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /district-8/
+permalink: /district-test/
 title: Кандидати по округу 8
 description: Гатненська сільська рада Фастівського району Київської області
 
@@ -154,4 +154,3 @@ candidates:
 
 
 [За інформацією з офіційного сайту ЦВК](https://www.cvk.gov.ua/pls/vm2020/pvm160pt001f01=695pid102=64341rej=0.html)
-
