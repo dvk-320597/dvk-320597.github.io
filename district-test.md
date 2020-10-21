@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /test/
+permalink: /features-test/
 title: Кандидати в Київську обласну раду
 description: Територіальний виборчий округ №9 з виборів депутатів Київської обласної ради
 
